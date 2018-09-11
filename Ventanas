@@ -1,0 +1,11 @@
+public class Desierto{
+
+	public static void main(String [] args){
+
+		Vagante ob = new Vagante();
+		ob.aparecer();
+		ob.mover();
+
+	}
+
+}
